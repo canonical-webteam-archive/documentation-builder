@@ -46,7 +46,7 @@ setup(
         "mock==2.0.0",
         "nose==1.3.7",
         "pytest==3.0.2",
-        "pytest-cov==2.4.0",
+        "pytest-cov==2.12.1",
     ],
     scripts=["documentation-builder"],
 )
