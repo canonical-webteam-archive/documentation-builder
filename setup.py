@@ -31,7 +31,7 @@ setup(
     install_requires=[
         "GitPython==3.1.20",
         "Jinja2==3.1.4 ",
-        "markdown==2.6.11",
+        "markdown==3.7",
         "mdx-anchors-away==1.0.1",
         "mdx-foldouts==1.0.0",
         "python-frontmatter==0.2.1",
