@@ -30,7 +30,7 @@ setup(
     long_description=open("README.rst").read(),
     install_requires=[
         "GitPython==3.1.20",
-        "Jinja2==3.1.4 ",
+        "Jinja2==3.1.5 ",
         "markdown==2.6.11",
         "mdx-anchors-away==1.0.1",
         "mdx-foldouts==1.0.0",
